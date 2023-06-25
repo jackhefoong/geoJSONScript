@@ -1,0 +1,830 @@
+[
+ {
+   "Federal Territory/State": "Federal Territory (Malaysia)",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "—",
+   "districtName": "Kuala Lumpur",
+   "Capital/Largest settlement": "Kuala Lumpur H",
+   "Local Government": "1982112",
+   "Population (2020[5])": 243,
+   "Area (km2)": "8,156.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "—",
+   "districtName": "Putrajaya",
+   "Capital/Largest settlement": "Putrajaya P",
+   "Local Government": "109202",
+   "Population (2020[5])": 49,
+   "Area (km2)": "2,228.6",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Johor",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Batu Pahat District",
+   "districtName": "Batu Pahat",
+   "Capital/Largest settlement": "Batu Pahat M\nYong Peng D",
+   "Local Government": "495338",
+   "Population (2020[5])": 1966,
+   "Area (km2)": "252.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Johor Bahru District",
+   "districtName": "Johor Bahru",
+   "Capital/Largest settlement": "Johor Bahru C\nIskandar Puteri C\nPasir Gudang C",
+   "Local Government": "1711191",
+   "Population (2020[5])": 1066,
+   "Area (km2)": "1,605.2",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kluang District",
+   "districtName": "Kluang",
+   "Capital/Largest settlement": "Kluang M\nSimpang Renggam D",
+   "Local Government": "323762",
+   "Population (2020[5])": 2865,
+   "Area (km2)": "113.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kota Tinggi District",
+   "districtName": "Kota Tinggi",
+   "Capital/Largest settlement": "Kota Tinggi D\nPengerang M",
+   "Local Government": "222382",
+   "Population (2020[5])": 3489,
+   "Area (km2)": "63.7",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kulai District",
+   "districtName": "Kulai",
+   "Capital/Largest settlement": "Kulai M",
+   "Local Government": "329497",
+   "Population (2020[5])": 756,
+   "Area (km2)": "435.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Mersing District",
+   "districtName": "Mersing",
+   "Capital/Largest settlement": "Mersing D",
+   "Local Government": "78195",
+   "Population (2020[5])": 2857,
+   "Area (km2)": "27.4",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Muar District",
+   "districtName": "Muar",
+   "Capital/Largest settlement": "Muar M",
+   "Local Government": "314776",
+   "Population (2020[5])": 1393,
+   "Area (km2)": "226.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Pontian District",
+   "districtName": "Pontian Kechil",
+   "Capital/Largest settlement": "Pontian M",
+   "Local Government": "173318",
+   "Population (2020[5])": 933,
+   "Area (km2)": "185.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Segamat District",
+   "districtName": "Segamat",
+   "Capital/Largest settlement": "Segamat M\nLabis D",
+   "Local Government": "197762",
+   "Population (2020[5])": 2867,
+   "Area (km2)": "69.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Tangkak District",
+   "districtName": "Tangkak",
+   "Capital/Largest settlement": "Tangkak D",
+   "Local Government": "163449",
+   "Population (2020[5])": 977,
+   "Area (km2)": "167.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kedah",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Baling District",
+   "districtName": "Baling",
+   "Capital/Largest settlement": "Baling D",
+   "Local Government": "142643",
+   "Population (2020[5])": 1529,
+   "Area (km2)": "93.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Bandar Baharu District",
+   "districtName": "Serdang",
+   "Capital/Largest settlement": "Bandar Baharu D",
+   "Local Government": "44412",
+   "Population (2020[5])": 271,
+   "Area (km2)": "163.9",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kota Setar District",
+   "districtName": "Alor Setar",
+   "Capital/Largest settlement": "Alor Setar C",
+   "Local Government": "374051",
+   "Population (2020[5])": 420,
+   "Area (km2)": "890.6",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kuala Muda District",
+   "districtName": "Sungai Petani",
+   "Capital/Largest settlement": "Sungai Petani M",
+   "Local Government": "544984",
+   "Population (2020[5])": 913,
+   "Area (km2)": "596.9",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kubang Pasu District",
+   "districtName": "Jitra",
+   "Capital/Largest settlement": "Kubang Pasu M",
+   "Local Government": "237759",
+   "Population (2020[5])": 946,
+   "Area (km2)": "251.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kulim District",
+   "districtName": "Kulim",
+   "Capital/Largest settlement": "Kulim M\nKulim Hi-Tech \nIndustrial Park LA",
+   "Local Government": "337699",
+   "Population (2020[5])": 774,
+   "Area (km2)": "436.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Langkawi District",
+   "districtName": "Kuah",
+   "Capital/Largest settlement": "Langkawi M",
+   "Local Government": "94138",
+   "Population (2020[5])": 526,
+   "Area (km2)": "179.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Padang Terap District",
+   "districtName": "Kuala Nerang",
+   "Capital/Largest settlement": "Padang Terap D",
+   "Local Government": "65698",
+   "Population (2020[5])": 1359,
+   "Area (km2)": "48.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Pendang District",
+   "districtName": "Pendang",
+   "Capital/Largest settlement": "Pendang D",
+   "Local Government": "98922",
+   "Population (2020[5])": 629,
+   "Area (km2)": "157.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Pokok Sena District",
+   "districtName": "Pokok Sena",
+   "Capital/Largest settlement": "Alor Setar C",
+   "Local Government": "49812",
+   "Population (2020[5])": 244,
+   "Area (km2)": "204.1",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Sik District",
+   "districtName": "Sik",
+   "Capital/Largest settlement": "Sik D",
+   "Local Government": "67925",
+   "Population (2020[5])": 1635,
+   "Area (km2)": "41.5",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Yan District",
+   "districtName": "Yan Besar",
+   "Capital/Largest settlement": "Yan D",
+   "Local Government": "73384",
+   "Population (2020[5])": 246,
+   "Area (km2)": "298.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kelantan",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Bachok District",
+   "districtName": "Bachok",
+   "Capital/Largest settlement": "Bachok D",
+   "Local Government": "157288",
+   "Population (2020[5])": 279,
+   "Area (km2)": "563.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Gua Musang District[note 1]",
+   "districtName": "Gua Musang",
+   "Capital/Largest settlement": "Gua Musang D",
+   "Local Government": "112495",
+   "Population (2020[5])": 8179,
+   "Area (km2)": "13.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Jeli District",
+   "districtName": "Jeli",
+   "Capital/Largest settlement": "Jeli D",
+   "Local Government": "54656",
+   "Population (2020[5])": 1326,
+   "Area (km2)": "41.2",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kota Bharu District",
+   "districtName": "Kota Bharu",
+   "Capital/Largest settlement": "Kota Bharu M\nKetereh D",
+   "Local Government": "555757",
+   "Population (2020[5])": 403,
+   "Area (km2)": "1,379.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kuala Krai District",
+   "districtName": "Kuala Krai",
+   "Capital/Largest settlement": "Kuala Krai D\nDabong D",
+   "Local Government": "105007",
+   "Population (2020[5])": 2275,
+   "Area (km2)": "46.2",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Machang District",
+   "districtName": "Machang",
+   "Capital/Largest settlement": "Machang D",
+   "Local Government": "110008",
+   "Population (2020[5])": 526,
+   "Area (km2)": "209.1",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Pasir Mas District",
+   "districtName": "Pasir Mas",
+   "Capital/Largest settlement": "Pasir Mas D",
+   "Local Government": "230424",
+   "Population (2020[5])": 570,
+   "Area (km2)": "404.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Pasir Puteh District",
+   "districtName": "Pasir Puteh",
+   "Capital/Largest settlement": "Pasir Puteh D",
+   "Local Government": "136157",
+   "Population (2020[5])": 423,
+   "Area (km2)": "321.9",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Tanah Merah District",
+   "districtName": "Tanah Merah",
+   "Capital/Largest settlement": "Tanah Merah D",
+   "Local Government": "150766",
+   "Population (2020[5])": 880,
+   "Area (km2)": "171.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Tumpat District",
+   "districtName": "Tumpat",
+   "Capital/Largest settlement": "Tumpat D",
+   "Local Government": "179943",
+   "Population (2020[5])": 180,
+   "Area (km2)": "999.7",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Malacca",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Alor Gajah District",
+   "districtName": "Alor Gajah",
+   "Capital/Largest settlement": "Alor Gajah M\nHang Tuah Jaya M",
+   "Local Government": "249356",
+   "Population (2020[5])": 674,
+   "Area (km2)": "370.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Jasin District",
+   "districtName": "Jasin",
+   "Capital/Largest settlement": "Jasin M\nHang Tuah Jaya M",
+   "Local Government": "151937",
+   "Population (2020[5])": 679,
+   "Area (km2)": "223.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Melaka Tengah District",
+   "districtName": "Malacca City",
+   "Capital/Largest settlement": "Malacca C\nHang Tuah Jaya M",
+   "Local Government": "597135",
+   "Population (2020[5])": 359,
+   "Area (km2)": "1,663.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Negeri Sembilan",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Jelebu District",
+   "districtName": "Kuala Klawang",
+   "Capital/Largest settlement": "Jelebu D",
+   "Local Government": "46026",
+   "Population (2020[5])": 1354,
+   "Area (km2)": "34.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Jempol District",
+   "districtName": "Bandar Seri Jempol",
+   "Capital/Largest settlement": "Jempol M",
+   "Local Government": "127181",
+   "Population (2020[5])": 1485,
+   "Area (km2)": "85.6",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kuala Pilah District",
+   "districtName": "Kuala Pilah",
+   "Capital/Largest settlement": "Kuala Pilah D",
+   "Local Government": "70324",
+   "Population (2020[5])": 1027,
+   "Area (km2)": "68.5",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Port Dickson District",
+   "districtName": "Port Dickson",
+   "Capital/Largest settlement": "Port Dickson M",
+   "Local Government": "128657",
+   "Population (2020[5])": 583,
+   "Area (km2)": "220.7",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Rembau District",
+   "districtName": "Rembau",
+   "Capital/Largest settlement": "Rembau D",
+   "Local Government": "47278",
+   "Population (2020[5])": 406,
+   "Area (km2)": "116.4",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Seremban District",
+   "districtName": "Seremban",
+   "Capital/Largest settlement": "Seremban C",
+   "Local Government": "692407",
+   "Population (2020[5])": 954,
+   "Area (km2)": "725.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Tampin District",
+   "districtName": "Tampin",
+   "Capital/Largest settlement": "Tampin D",
+   "Local Government": "88101",
+   "Population (2020[5])": 851,
+   "Area (km2)": "103.5",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Pahang",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Bentong District",
+   "districtName": "Bentong",
+   "Capital/Largest settlement": "Bentong M",
+   "Local Government": "116799",
+   "Population (2020[5])": 1831,
+   "Area (km2)": "63.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Bera District",
+   "districtName": "Bandar Bera",
+   "Capital/Largest settlement": "Bera D",
+   "Local Government": "98137",
+   "Population (2020[5])": 2214,
+   "Area (km2)": "44.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Cameron Highlands District",
+   "districtName": "Tanah Rata",
+   "Capital/Largest settlement": "Cameron Highlands D",
+   "Local Government": "39004",
+   "Population (2020[5])": 712,
+   "Area (km2)": "54.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Jerantut District",
+   "districtName": "Jerantut",
+   "Capital/Largest settlement": "Jerantut D",
+   "Local Government": "96006",
+   "Population (2020[5])": 7561,
+   "Area (km2)": "12.7",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kuantan District",
+   "districtName": "Kuantan",
+   "Capital/Largest settlement": "Kuantan C",
+   "Local Government": "548014",
+   "Population (2020[5])": 2960,
+   "Area (km2)": "185.1",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Lipis District",
+   "districtName": "Kuala Lipis",
+   "Capital/Largest settlement": "Lipis D",
+   "Local Government": "96620",
+   "Population (2020[5])": 5198,
+   "Area (km2)": "18.6",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Maran District",
+   "districtName": "Maran",
+   "Capital/Largest settlement": "Maran D",
+   "Local Government": "112330",
+   "Population (2020[5])": 1917,
+   "Area (km2)": "58.6",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Pekan District",
+   "districtName": "Pekan",
+   "Capital/Largest settlement": "Pekan D",
+   "Local Government": "121158",
+   "Population (2020[5])": 3805,
+   "Area (km2)": "31.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Raub District",
+   "districtName": "Raub",
+   "Capital/Largest settlement": "Raub D",
+   "Local Government": "96139",
+   "Population (2020[5])": 2269,
+   "Area (km2)": "42.4",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Rompin District",
+   "districtName": "Kuala Rompin",
+   "Capital/Largest settlement": "Rompin D\nTioman DA",
+   "Local Government": "98065",
+   "Population (2020[5])": 5247,
+   "Area (km2)": "18.7",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Temerloh District",
+   "districtName": "Temerloh",
+   "Capital/Largest settlement": "Temerloh M",
+   "Local Government": "169023",
+   "Population (2020[5])": 2251,
+   "Area (km2)": "75.1",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Penang",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Central Seberang Perai District",
+   "districtName": "Bukit Mertajam",
+   "Capital/Largest settlement": "Seberang Perai C",
+   "Local Government": "422985",
+   "Population (2020[5])": 238,
+   "Area (km2)": "1,777.2",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "North Seberang Perai District",
+   "districtName": "Kepala Batas",
+   "Capital/Largest settlement": "Seberang Perai C",
+   "Local Government": "339132",
+   "Population (2020[5])": 268,
+   "Area (km2)": "1,265.4",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Northeast Penang Island District",
+   "districtName": "George Town",
+   "Capital/Largest settlement": "Penang Island C",
+   "Local Government": "556557",
+   "Population (2020[5])": 126,
+   "Area (km2)": "4,417.1",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "South Seberang Perai District",
+   "districtName": "Sungai Jawi",
+   "Capital/Largest settlement": "Seberang Perai C",
+   "Local Government": "183996",
+   "Population (2020[5])": 242,
+   "Area (km2)": "760.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Southwest Penang Island District",
+   "districtName": "Balik Pulau",
+   "Capital/Largest settlement": "Penang Island C",
+   "Local Government": "237735",
+   "Population (2020[5])": 175,
+   "Area (km2)": "1,358.5",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Perak",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Bagan Datuk District",
+   "districtName": "Bagan Datuk",
+   "Capital/Largest settlement": "Teluk Intan M",
+   "Local Government": "82785",
+   "Population (2020[5])": 974,
+   "Area (km2)": "85.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Batang Padang District",
+   "districtName": "Tapah",
+   "Capital/Largest settlement": "Tapah D",
+   "Local Government": "124049",
+   "Population (2020[5])": 1794,
+   "Area (km2)": "69.1",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Hilir Perak District",
+   "districtName": "Teluk Intan",
+   "Capital/Largest settlement": "Teluk Intan M",
+   "Local Government": "141959",
+   "Population (2020[5])": 821,
+   "Area (km2)": "172.9",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Hulu Perak District",
+   "districtName": "Gerik",
+   "Capital/Largest settlement": "Gerik D\nLenggong D\nPengkalan Hulu D",
+   "Local Government": "95076",
+   "Population (2020[5])": 6613,
+   "Area (km2)": "14.4",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kampar District",
+   "districtName": "Kampar",
+   "Capital/Largest settlement": "Kampar D",
+   "Local Government": "98732",
+   "Population (2020[5])": 667,
+   "Area (km2)": "148.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kerian District",
+   "districtName": "Parit Buntar",
+   "Capital/Largest settlement": "Kerian D",
+   "Local Government": "166352",
+   "Population (2020[5])": 938,
+   "Area (km2)": "177.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kinta District",
+   "districtName": "Batu Gajah",
+   "Capital/Largest settlement": "Ipoh C\nBatu Gajah D",
+   "Local Government": "888767",
+   "Population (2020[5])": 1305,
+   "Area (km2)": "681.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kuala Kangsar District",
+   "districtName": "Kuala Kangsar",
+   "Capital/Largest settlement": "Kuala Kangsar M",
+   "Local Government": "176060",
+   "Population (2020[5])": 2562,
+   "Area (km2)": "68.7",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Larut, Matang and Selama District[note 2]",
+   "districtName": "Taiping",
+   "Capital/Largest settlement": "Taiping M\nSelama D",
+   "Local Government": "304023",
+   "Population (2020[5])": 2115,
+   "Area (km2)": "143.7",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Manjung District",
+   "districtName": "Seri Manjung",
+   "Capital/Largest settlement": "Manjung M",
+   "Local Government": "246977",
+   "Population (2020[5])": 1126,
+   "Area (km2)": "219.3",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Muallim District",
+   "districtName": "Tanjung Malim",
+   "Capital/Largest settlement": "Tanjong Malim D",
+   "Local Government": "76688",
+   "Population (2020[5])": 949,
+   "Area (km2)": "80.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Perak Tengah District",
+   "districtName": "Seri Iskandar",
+   "Capital/Largest settlement": "Perak Tengah D",
+   "Local Government": "94573",
+   "Population (2020[5])": 1282,
+   "Area (km2)": "73.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Perlis",
+   "districtName": "—",
+   "Capital/Largest settlement": "Kangar",
+   "Local Government": "Kangar M",
+   "Population (2020[5])": 284885,
+   "Area (km2)": "819",
+   "Density": 347.8
+ },
+ {
+   "Federal Territory/State": "Selangor",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Terengganu",
+   "districtName": "",
+   "Capital/Largest settlement": "",
+   "Local Government": "",
+   "Population (2020[5])": null,
+   "Area (km2)": "",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Besut District",
+   "districtName": "Kampung Raja",
+   "Capital/Largest settlement": "Besut D",
+   "Local Government": "154168",
+   "Population (2020[5])": 1234,
+   "Area (km2)": "124.9",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Dungun District",
+   "districtName": "Kuala Dungun",
+   "Capital/Largest settlement": "Dungun M",
+   "Local Government": "158130",
+   "Population (2020[5])": 2735,
+   "Area (km2)": "57.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Hulu Terengganu District",
+   "districtName": "Kuala Berang",
+   "Capital/Largest settlement": "Hulu Terengganu D",
+   "Local Government": "69881",
+   "Population (2020[5])": 3875,
+   "Area (km2)": "18.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kemaman District",
+   "districtName": "Chukai",
+   "Capital/Largest settlement": "Kemaman M",
+   "Local Government": "215582",
+   "Population (2020[5])": 2536,
+   "Area (km2)": "85.0",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kuala Nerus District",
+   "districtName": "Kuala Nerus",
+   "Capital/Largest settlement": "Kuala Terengganu C",
+   "Local Government": "145643",
+   "Population (2020[5])": 398,
+   "Area (km2)": "365.9",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Kuala Terengganu District",
+   "districtName": "Kuala Terengganu",
+   "Capital/Largest settlement": "Kuala Terengganu C",
+   "Local Government": "229780",
+   "Population (2020[5])": 210,
+   "Area (km2)": "1,094.2",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Marang District",
+   "districtName": "Marang",
+   "Capital/Largest settlement": "Marang D",
+   "Local Government": "116605",
+   "Population (2020[5])": 667,
+   "Area (km2)": "174.8",
+   "Density": null
+ },
+ {
+   "Federal Territory/State": "Setiu District",
+   "districtName": "Bandar Permaisuri",
+   "Capital/Largest settlement": "Setiu D",
+   "Local Government": "59651",
+   "Population (2020[5])": 1304,
+   "Area (km2)": "45.7",
+   "Density": null
+ }
+]
